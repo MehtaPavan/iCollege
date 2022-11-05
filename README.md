@@ -1,0 +1,2 @@
+Online College Attendance System
+College Attendance System is an android based application which will be beneficial for universities. It generates the attendance of the student on the daily basis of the class. This app is built for the university purpose for college faculty to take student attendance on their mobile phones.![image](https://user-images.githubusercontent.com/96176462/200108056-f4add918-856b-470a-b04a-e3e930280b60.png)
